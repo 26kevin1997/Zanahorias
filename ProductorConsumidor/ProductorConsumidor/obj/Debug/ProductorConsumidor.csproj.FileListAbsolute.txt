@@ -1,0 +1,38 @@
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csprojAssemblyReference.cache
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\ageus\OneDrive\Escritorio\Violeta Seminario de Sistemas Operativos\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csprojAssemblyReference.cache
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\crist\Downloads\agus violeta\Actividad 12\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Kevin\Desktop\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Kevin\Desktop\Practica 6\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
